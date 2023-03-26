@@ -12,7 +12,7 @@ Software Engineer
 
 ## Currently
 
-Developing microservices for Europcar
+Java Software Engineer for eDreams Odigeo in the Checkout area
 
 ### Specialized in
 
@@ -25,11 +25,27 @@ New technologies, music, science and paranormal activities.
 
 
 ## Work experience
+`07/2022-Present`
+__*Software Engineer*__<br>
+__eDreams Odigeo__
+Member of the Checkout area, my team is responsible for providing the customers the best payment experience possible.
+Tech stack:
+- Java 8-11
+- JUnit
+- Git
+- Confluence
+- Oracle DDBB
+- Jenkins
+- GCP
+- Docker, kubernetes
+- Cucumber
+- Maven
 
-`10/2019–Present`
+
+`10/2019–07/2022`
 __*Software Engineer*__<br>
 __Europcar Mobility Group, Alicante (Spain)__
-`02/2022–Present`
+`02/2022–07/2022`
 My team's scopes are all of the processes involved before the customer's pick up of their rented vehicles, trying to make them autonomous through this journey. Our aim is to try to have a higher number of registered users in our system, digitalizing their personal documents to save time on their pick up. 
 Technology stack:
 - Java 17
