@@ -28,6 +28,7 @@ New technologies, music, science and paranormal activities.
 `07/2022-Present`
 __*Software Engineer*__<br>
 __eDreams Odigeo__
+
 Member of the Checkout area, my team is responsible for providing the customers the best payment experience possible.
 Tech stack:
 - Java 8-11
@@ -45,6 +46,7 @@ Tech stack:
 `10/2019–07/2022`
 __*Software Engineer*__<br>
 __Europcar Mobility Group, Alicante (Spain)__
+
 `02/2022–07/2022`
 My team's scopes are all of the processes involved before the customer's pick up of their rented vehicles, trying to make them autonomous through this journey. Our aim is to try to have a higher number of registered users in our system, digitalizing their personal documents to save time on their pick up. 
 Technology stack:
@@ -96,7 +98,7 @@ Technology stack:
 - Gradle
 
 `01/2021–06/2021`
-__*Software Engineer* (Contractor)__<br>
+__*Software Engineer*__<br>
 __Lastminute.com, Madrid (Spain)__
 
 Part of the Hotel Supply area integrating new providers (such as booking.com, expedia, agoda, etc.) working with java and kotlin in the back-end using hexagonal architecture. 
