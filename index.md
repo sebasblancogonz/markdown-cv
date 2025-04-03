@@ -6,182 +6,134 @@ title: Sebastian Blanco's CV
 Software Engineer
 
 <div id="webaddress">
-<a href="mailto:sebastianblancogonz@gmail.com">sebastianblancogonz@gmail.com</a> | <a href="https://www.linkedin.com/in/sebasblancogonz/?locale=en_US" target="_blank">LinkedIn</a> | <a href="https://github.com/sebasblancogonz" target="_blank">Github</a> | Phone: <a href="tel:+34611183163">+34611183163</a>
+<a href="mailto:sebastianblancogonz@gmail.com">sebastianblancogonz@gmail.com</a> | LinkedIn: <a href="https://www.linkedin.com/in/sebasblancogonz/?locale=en_US" target="_blank">sebasblancogonz</a> | Github: <a href="https://github.com/sebasblancogonz" target="_blank">sebasblancogonz</a> | Phone: <a href="tel:+34611183163">+34611183163</a>
 </div>
 
 
-## Currently
+## **Currently**  
+**Java Software Engineer** at **eDreams ODIGEO** – Checkout Area  
 
-Java Software Engineer for eDreams Odigeo in the Checkout area
+## **Specialized in**  
+- Development of RESTful microservices  
+- Payment processing systems  
+- High-performance backend solutions  
 
-### Specialized in
+## **Research Interests**  
+- New technologies  
+- Music  
+- Science  
+- Paranormal phenomena  
 
-RESTful microservice development.
+## **Work Experience**  
 
+### **Software Engineer**  
+**eDreams ODIGEO** *(07/2022 – Present)*  
 
-### Research interests
+Member of the **Checkout** team, responsible for optimizing the payment experience for customers. We manage microservices that handle payment processing, ensuring seamless transactions with multiple banks and payment platforms.  
 
-New technologies, music, science and paranormal activities.
+Within the team, I am the **go-to person** for the system that determines the available payment methods (Apple Pay, Google Pay, credit card, etc.) based on specific criteria for each transaction. This microservice handles approximately **3.5K requests per second**.  
 
+#### **Tech Stack:**  
+- **Java** (11–17)  
+- **Spring Boot**  
+- **Kafka**  
+- **Docker & Kubernetes**  
+- **Google Cloud Platform (GCP)**  
+- **BigQuery & Datadog**  
+- **Oracle DB**  
+- **Jenkins**  
+- **Git & Maven**  
+- **Cucumber**  
 
-## Work experience
-`07/2022-Present`
-__*Software Engineer*__<br>
-__eDreams Odigeo__
+---  
 
-Member of the Checkout area, my team is responsible for providing the customers the best payment experience possible.
-Tech stack:
-- Java 8-11
-- JUnit
-- Git
-- Confluence
-- Oracle DDBB
-- Jenkins
-- GCP
-- Docker, kubernetes
-- Cucumber
-- Maven
+### **Software Engineer**  
+**Europcar Mobility Group, Alicante (Spain)** *(10/2019 – 07/2022)*  
 
+#### **Digital Customer Journey (02/2022 – 07/2022)**  
+Worked on digitalizing the rental process to enhance user autonomy before vehicle pick-up. The goal was to increase the number of registered users while securely storing their personal documents.  
 
-`10/2019–07/2022`
-__*Software Engineer*__<br>
-__Europcar Mobility Group, Alicante (Spain)__
+#### **Billing & Payments (11/2021 – 02/2022)**  
+Contributed to the **automated payment system** for **Goldcar** and **Europcar**, enabling **scheduled payment execution**.  
 
-`02/2022–07/2022`
-My team's scopes are all of the processes involved before the customer's pick up of their rented vehicles, trying to make them autonomous through this journey. Our aim is to try to have a higher number of registered users in our system, digitalizing their personal documents to save time on their pick up. 
-Technology stack:
-- Java 17
-- Spring Boot
-- Onfido
-- Groovy for integration and unit tests
-- JUnit
-- No-SQL DDBB
-- Git (Gitlab)
-- Jira for tickets
-- Confluence
-- Gradle
+#### **Vehicle Availability System Migration (10/2019 – 11/2021)**  
+Developed a **microservice-based** system to handle vehicle availability calculations. This involved **scheduled tasks, internal caching (Spring Cache), and Redis databases**. Also worked on a **translator service** to integrate booking workflows across Europcar's systems.  
 
-`11/2021–02/2022`
-Member of the Billing & Payments team, I was contributing to build the automatic payment system for Goldcar and Europcar.
-This system could handle scheduled payments execution.
-Technology stack:
-- Java 11
-- Spring Boot
-- Kafka
-- Groovy for integration and unit tests
-- Gatling for performance and stress tests
-- PACT
-- JUnit
-- SQL DDBB
-- Git (Gitlab)
-- Jira for tickets
-- Confluence
-- Gradle
+#### **Tech Stack:**  
+- **Java** (11–17)  
+- **Spring Boot**  
+- **Kafka**  
+- **Akka**  
+- **Groovy** (integration/unit tests)  
+- **Redis & SQL databases**  
+- **Gatling** (performance testing)  
+- **PACT, JUnit**  
+- **Gradle**  
+- **Git (GitLab, Bitbucket)**  
+- **Jira & Confluence**  
 
-`10/2019–11/2021`
-Migration of Goldcar's vehicle availability calculation system using microservices. 
-Project from scratch using scheduled tasks, internal caches (spring cache) and redis databases. 
-Also working on a translator between Europcar's different systems related to booking workflows.
-Technology stack:
-- Java 11
-- Spring Boot
-- Akka
-- Groovy for integration and unit tests
-- Gatling for performance and stress tests
-- PACT
-- JUnit
-- Redis databases
-- SQL Developer
-- Git (Bitbucket and Gitlab)
-- Jira for tickets
-- Notions for documentation
-- Gradle
+---  
 
-`01/2021–06/2021`
-__*Software Engineer*__<br>
-__Lastminute.com, Madrid (Spain)__
+### **Software Engineer**  
+**Lastminute.com, Madrid (Spain)** *(01/2021 – 06/2021)*  
 
-Part of the Hotel Supply area integrating new providers (such as booking.com, expedia, agoda, etc.) working with java and kotlin in the back-end using hexagonal architecture. 
-Our work involved the whole funnel, from the results page to payment.
+Part of the **Hotel Supply** team, integrating new providers (Booking.com, Expedia, Agoda, etc.) using **hexagonal architecture**. Developed backend services spanning from search results to payment processing.  
 
-Tech stack:
-- Java 14
-- Kotlin
-- Spring Boot
-- Spinnaker
-- Gitlab CI
-- AssertK
-- MockK
-- JUnit 5
-- MySQL
-- Grafana
-- Graylog
-- Git (master only)
+#### **Tech Stack:**  
+- **Java 14, Kotlin**  
+- **Spring Boot**  
+- **Spinnaker, GitLab CI**  
+- **JUnit 5, AssertK, MockK**  
+- **MySQL, Grafana, Graylog**  
 
-`12/2018–09/2019`
-__*Software Developer*__<br>
-__Altia, Alicante (Spain)__
+---  
 
-As a member of the PTR team (Real Time Platform), I had to do different tasks, 
-like optimize and migrate services which were deployed on Websphere and Weblogic to Openshift. 
-My job was to improve those services along the team and lower the response time of them, 
-since they needed the information as updated as possible, with the minimum latency possible. 
-Those services received a good amount of requests.
-Technology stack:
-- Java 7/8
-- Spring Boot
-- Maven
-- Oracle SQL Developer
-- Git
-- Bamboo for CI
-- SonarQube 
-- Confluence for documentation
-- Jira for ticke
+### **Software Developer**  
+**Altia, Alicante (Spain)** *(12/2018 – 09/2019)*  
 
-`06/2018-12/2018` 
-__*Junior Software Developer*__<br>
-__GFI Levante, Alicante (Spain)__
+Worked on the **Real-Time Platform (PTR) team**, optimizing and migrating services from WebSphere and WebLogic to OpenShift. Focused on **reducing response times** and improving overall system performance for high-frequency requests.  
 
-A project for _Le Ministère de la Culture_, France. Development and maintenance of web applications, 
-mostly build in **Java** (**Spring Framework** and Struts 2). It was an interesting project 
-which helped me to understand the basis of software development.
+#### **Tech Stack:**  
+- **Java 7/8**  
+- **Spring Boot**  
+- **Oracle SQL Developer**  
+- **Git, Bamboo (CI), SonarQube**  
 
-## Education
+---  
 
-`09/2016–05/2018`
-__Web Applications Development__<br>
-__IES Macià Abela, Crevillente (Spain)__
-- Client Side Web Development, JavaScript.
-- Server Side Web Development, PHP.
-- Design of Web Interfaces, HTML5+CSS.
-- Databases, SQL.
+### **Junior Software Developer**  
+**GFI Levante, Alicante (Spain)** *(06/2018 – 12/2018)*  
 
-`2010–2012`
-__Bachelor's degree Humanities and Social Sciences__<br>
-__IES Canónigo Manchón, Crevillente (Spain)__
+Contributed to a project for the **French Ministry of Culture**, developing and maintaining **web applications** using **Java (Spring Framework, Struts 2)**. Gained a solid foundation in **software development principles**.  
 
+## **Education**  
 
-## Personal skills
+- **Web Applications Development** *(2016 – 2018)*  
+  **IES Macià Abela, Crevillente (Spain)**  
+  - Client-side development: **JavaScript**  
+  - Server-side development: **PHP**  
+  - UI/UX: **HTML5, CSS**  
+  - Databases: **SQL**  
 
-__Mother tongue(s)__
-Spanish
+- **Bachelor’s Degree in Humanities & Social Sciences** *(2010 – 2012)*  
+  **IES Canónigo Manchón, Crevillente (Spain)**  
 
-__Foreign languages__
-English with a fluent writing, speaking and listening level. I work with teammates 
-from France and we have to do the dailies, refinements and so on in English.
+## **Skills**  
 
-__Communitation skills__
-Working with more people with different roles, but that also were/are part 
-of an application life cycle, have made communication something crucial on a daily basis. 
-Teamwork is one of the most important things for me and this is 
-why I like to contribute to create a healthy and pleasant work environment.
+### **Languages**  
+- **Spanish** (Native)  
+- **English** (Fluent in speaking, writing, and listening)  
+  - Daily work with international teams, conducting **stand-ups, refinements, and discussions in English**.  
 
-__Organisational skills__
-Being part of projects with several applications, have helped me to develop my 
-organisational capabilities, teaching me how to manage time and tasks when the work load is high.
-Also being the main developer of a feature/service, also helped me to keep 
-everything under control and well documented.
+### **Soft Skills**  
+- **Communication & Collaboration**  
+  - Experience working cross-functionally with different teams, including **product managers, QA engineers, and DevOps**.  
+  - Strong advocate for a **healthy and productive work environment**.  
+
+- **Organizational & Leadership**  
+  - Experienced in managing **high-load projects** and keeping track of **multiple services and dependencies**.  
+  - Acted as the **lead developer** for key features, ensuring **clear documentation and structured workflows**.  
 
 <!-- ### Footer
 
-Last updated: Aug 2021 -->
+Last updated: Apr 2025 -->
